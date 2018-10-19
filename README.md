@@ -18,7 +18,10 @@ Connector][production deployment]
 Use the [deployment guide][deployment guide] to deploy the Connector
 yourself. After following these steps, you will need to get the auth token through SE Ranking and the site id.
 
-[se_ranking]: https://www.atinternet.com/
+## Author
+[Bastien Montois](https://www.bqst.fr) @ [la-revanche-des-sites.fr](https://www.la-revanche-des-sites.fr)
+
+[at_internet]: https://www.atinternet.com/
 [api_doc]: https://developers.atinternet-solutions.com/rest-api-en/getting-started-rest-en/authentication-rest-en/
 [deployment guide]: ./deploy.md
 [github settings]: https://github.com/settings/developers
