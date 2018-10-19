@@ -1,0 +1,11 @@
+{
+  "dataStudio": {
+    "name": "AT Internet API connector",
+    "company": "la revanche des sites",
+    "companyUrl": "https://www.la-revanche-des-sites.fr/",
+    "logoUrl": "https://www.la-revanche-des-sites.fr/wp-content/uploads/2018/07/logo-48.png",
+    "addonUrl": "https://www.la-revanche-des-sites.fr/",
+    "supportUrl": "https://www.la-revanche-des-sites.fr/",
+    "description": "This connector uses the AT Internet API to retrieve SEO data."
+  }
+}
